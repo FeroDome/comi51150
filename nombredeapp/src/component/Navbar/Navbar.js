@@ -13,7 +13,7 @@ const Navbar = () => {
                     <button>Contacto</button>
                 </section>
             <h1 className="navbar-logo">FGL3D</h1>
-            <CartWidget className="seeCarrito"/>
+            <CartWidget />
             </nav>
             
         </div>
